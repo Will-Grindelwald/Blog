@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.lyogvce.me/"/>
-  <updated>2017-07-21T07:41:28.449Z</updated>
+  <updated>2017-07-21T07:53:20.370Z</updated>
   <id>http://blog.lyogvce.me/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.lyogvce.me/2017-06/Git_Flow_and_Git_Command.html"/>
     <id>http://blog.lyogvce.me/2017-06/Git_Flow_and_Git_Command.html</id>
     <published>2017-06-21T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:28.449Z</updated>
+    <updated>2017-07-21T07:53:20.370Z</updated>
     
     <content type="html"><![CDATA[<p>这篇文章是针对 <strong>Git Flow &amp; Git 命令</strong> 的 <strong>总结</strong>。</p>
 <p>我花费了很大精力才完成的！</p>
@@ -190,7 +190,7 @@
     <link href="http://blog.lyogvce.me/2017-04/TimSort.html"/>
     <id>http://blog.lyogvce.me/2017-04/TimSort.html</id>
     <published>2017-04-26T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:28.309Z</updated>
+    <updated>2017-07-21T07:53:19.869Z</updated>
     
     <content type="html"><![CDATA[<p>参考:</p>
 <ul>
@@ -230,7 +230,7 @@
     <link href="http://blog.lyogvce.me/2017-04/Date-And-Time-Of-Java.html"/>
     <id>http://blog.lyogvce.me/2017-04/Date-And-Time-Of-Java.html</id>
     <published>2017-04-01T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:28.169Z</updated>
+    <updated>2017-07-21T07:53:19.376Z</updated>
     
     <content type="html"><![CDATA[<p>转自: <a href="https://my.oschina.net/benhaile/blog/193956" target="_blank" rel="external">https://my.oschina.net/benhaile/blog/193956</a></p>
 <p>摘要: JSR310 已在 java8 中实现了, 对于恶心的 java.util.Date 和 Calendar, 终于可以休息了吧。。。</p>
@@ -345,7 +345,7 @@
     <link href="http://blog.lyogvce.me/2017-03/System-Repair-Command-Of-Windows.html"/>
     <id>http://blog.lyogvce.me/2017-03/System-Repair-Command-Of-Windows.html</id>
     <published>2017-03-28T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.848Z</updated>
+    <updated>2017-07-21T07:53:18.378Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-基础"><a href="#1-基础" class="headerlink" title="1 基础"></a>1 基础</h2><p>对于一些问题, 我们可以先试一试 <code>sfc</code> 命令.</p>
 <p>简介: SFC 命令用于检查系统文件, 并可以在重启 win7 后恢复受损的系统文件.</p>
@@ -465,7 +465,7 @@
     <link href="http://blog.lyogvce.me/2017-03/UEFI-And-GPT.html"/>
     <id>http://blog.lyogvce.me/2017-03/UEFI-And-GPT.html</id>
     <published>2017-03-21T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:28.026Z</updated>
+    <updated>2017-07-21T07:53:18.869Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-引导基础篇-什么是-UEFI-什么是-GPT"><a href="#1-引导基础篇-什么是-UEFI-什么是-GPT" class="headerlink" title="1 引导基础篇: 什么是 UEFI, 什么是 GPT"></a>1 引导基础篇: 什么是 UEFI, 什么是 GPT</h2><p>本文目的是想用最简单直白的语言把内容写出来, 让每个人都能轻松读懂。当然, 如果你已经对这些内容有了很深的理解的话, 这篇文章除了浪费你的时间外恐怕是别无益处了, 建议去 UEFI 官方网站下载 UEFI 规范文档, 那里详细阐述了 UEFI、GPT 的每个技术细节。</p>
 <a id="more"></a>
@@ -554,7 +554,7 @@
     <link href="http://blog.lyogvce.me/2017-01/Enable-Epel-Repo-For-RHEL-And-CentOS.html"/>
     <id>http://blog.lyogvce.me/2017-01/Enable-Epel-Repo-For-RHEL-And-CentOS.html</id>
     <published>2017-01-21T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.581Z</updated>
+    <updated>2017-07-21T07:53:17.365Z</updated>
     
     <content type="html"><![CDATA[<p><strong>待整理</strong></p>
 <p><strong>2016 年 8 月 17 日</strong><a href="http://www.howtoing.com/category/operating-system/centos/" target="_blank" rel="external">CentOS 系统</a> <a href="http://www.howtoing.com/category/operating-system/redhat/" target="_blank" rel="external">RedHat</a></p>
@@ -611,7 +611,7 @@
     <link href="http://blog.lyogvce.me/2017-01/Implement-Tree-Command-Use-Shell.html"/>
     <id>http://blog.lyogvce.me/2017-01/Implement-Tree-Command-Use-Shell.html</id>
     <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.684Z</updated>
+    <updated>2017-07-21T07:53:17.893Z</updated>
     
     <content type="html"><![CDATA[<p><strong>待整理</strong></p>
 <p><a href="http://yijiebuyi.com/blog/c0defa3a47d16e675d58195adc35514b.html" target="_blank" rel="external">http://yijiebuyi.com/blog/c0defa3a47d16e675d58195adc35514b.html</a></p>
@@ -639,7 +639,7 @@
     <link href="http://blog.lyogvce.me/2016-12/Dual-Ssystem-Of-Windows-And-Ubuntu.html"/>
     <id>http://blog.lyogvce.me/2016-12/Dual-Ssystem-Of-Windows-And-Ubuntu.html</id>
     <published>2016-12-15T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.505Z</updated>
+    <updated>2017-07-21T07:53:16.881Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前置"><a href="#前置" class="headerlink" title="前置"></a>前置</h2><p>EasyBCD 软件 + 镜像文件</p>
 <h2 id="Step-1-划分空间"><a href="#Step-1-划分空间" class="headerlink" title="Step 1 划分空间"></a>Step 1 划分空间</h2><p>在 Win10 磁盘管理分出大约 20 G 的空间(可以通过 <code>压缩卷</code> 获得), 划好要给 Ubuntu 的分区后, 删除卷, <code>划分出来的部分显示为黑色</code>.</p>
@@ -732,7 +732,7 @@
     <link href="http://blog.lyogvce.me/2016-11/SSH-Remote-Command-Execution-Non-Interactive.html"/>
     <id>http://blog.lyogvce.me/2016-11/SSH-Remote-Command-Execution-Non-Interactive.html</id>
     <published>2016-11-20T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.419Z</updated>
+    <updated>2017-07-21T07:53:16.353Z</updated>
     
     <content type="html"><![CDATA[<p><strong>待整理</strong></p>
 <p>非交互式在远程主机上执行命令或者脚本可以帮助我们快速完成一些任务. 比如, 在集群环境中, 同时在各个结点上的日志文件中查询特定的关键字</p>
@@ -830,7 +830,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Command-Usage-ps-With-kill.html"/>
     <id>http://blog.lyogvce.me/2016-10/Command-Usage-ps-With-kill.html</id>
     <published>2016-10-30T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.122Z</updated>
+    <updated>2017-07-21T07:53:15.624Z</updated>
     
     <content type="html"><![CDATA[<h2 id="常规篇"><a href="#常规篇" class="headerlink" title="常规篇"></a>常规篇</h2><p>首先, 用 ps 查看进程, 方法如下:</p>
 <figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">$ ps -ef</div><div class="line">……</div><div class="line">will       1822     1  0 11:38 ?        00:00:49 gnome-terminal</div><div class="line">will       1823  1822  0 11:38 ?        00:00:00 gnome-pty-helper</div><div class="line">will       1824  1822  0 11:38 pts/0    00:00:02 bash</div><div class="line">will       1827     1  4 11:38 ?        00:26:28 /usr/lib/firefox-3.6.18/firefox-bin</div><div class="line">will       1857  1822  0 11:38 pts/1    00:00:00 bash</div><div class="line">will       1880  1619  0 11:38 ?        00:00:00 update-notifier</div><div class="line">……</div><div class="line">will      11946  1824  0 21:41 pts/0    00:00:00 ps -ef</div></pre></td></tr></table></figure>
@@ -893,7 +893,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Get-Absolute-Path-Of-Script.html"/>
     <id>http://blog.lyogvce.me/2016-10/Get-Absolute-Path-Of-Script.html</id>
     <published>2016-10-25T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.280Z</updated>
+    <updated>2017-07-21T07:53:15.752Z</updated>
     
     <content type="html"><![CDATA[<p>因为脚本可能是在别的目录里调用的, 甚至是在子 shell 中调用的, 所以仅 <code>pwd</code> 是不行的</p>
 <p>应该用它</p>
@@ -923,7 +923,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Build-Svn-Server-On-Linux.html"/>
     <id>http://blog.lyogvce.me/2016-10/Build-Svn-Server-On-Linux.html</id>
     <published>2016-10-24T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.727Z</updated>
+    <updated>2017-07-21T07:53:15.296Z</updated>
     
     <content type="html"><![CDATA[<p>本文讲解 Linux 下 SVN 服务器的搭建: 基本的单仓库 SVN 服务器, 支持 HTTP 协议的 SVN 服务器, 多仓库的 SVN 服务器。</p>
 <a id="more"></a>
@@ -997,7 +997,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Service-Start-On-Boot.html"/>
     <id>http://blog.lyogvce.me/2016-10/Service-Start-On-Boot.html</id>
     <published>2016-10-23T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.348Z</updated>
+    <updated>2017-07-21T07:53:15.827Z</updated>
     
     <content type="html"><![CDATA[<ul>
 <li>法 1: <code>systemctl enable svnserve.service</code>, 参考 <a href="CentOS-7-Systemctl-Command.html">CentOS-7-Systemctl-Command</a></li>
@@ -1031,7 +1031,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Command-Usage-ps.html"/>
     <id>http://blog.lyogvce.me/2016-10/Command-Usage-ps.html</id>
     <published>2016-10-21T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.206Z</updated>
+    <updated>2017-07-21T07:53:15.688Z</updated>
     
     <content type="html"><![CDATA[<h2 id="ps-命令是-Process-Status-的缩写"><a href="#ps-命令是-Process-Status-的缩写" class="headerlink" title="ps 命令是 Process Status 的缩写"></a>ps 命令是 Process Status 的缩写</h2><p>ps 命令列出的是执行 ps 命令的时刻的进程的快照, 相关命令: top | htop | pstree</p>
 <a id="more"></a>
@@ -1186,7 +1186,7 @@
     <link href="http://blog.lyogvce.me/2016-10/CentOS-7-Systemctl-Command.html"/>
     <id>http://blog.lyogvce.me/2016-10/CentOS-7-Systemctl-Command.html</id>
     <published>2016-10-20T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.872Z</updated>
+    <updated>2017-07-21T07:53:15.425Z</updated>
     
     <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>systemctl 是系统服务管理器命令, 它实际上将 service 和 chkconfig 这两个命令组合到一起</p>
 <a id="more"></a>
@@ -1265,7 +1265,7 @@
     <link href="http://blog.lyogvce.me/2016-10/CentOS-7-Firewalld-Usage.html"/>
     <id>http://blog.lyogvce.me/2016-10/CentOS-7-Firewalld-Usage.html</id>
     <published>2016-10-19T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.793Z</updated>
+    <updated>2017-07-21T07:53:15.360Z</updated>
     
     <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Centos 7 使用 firewalld 代替了原来的 iptables, 最大的好处有两个:</p>
 <ol>
@@ -1322,7 +1322,7 @@
     <link href="http://blog.lyogvce.me/2016-10/CentOS-Repo-Mirror.html"/>
     <id>http://blog.lyogvce.me/2016-10/CentOS-Repo-Mirror.html</id>
     <published>2016-10-18T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.953Z</updated>
+    <updated>2017-07-21T07:53:15.492Z</updated>
     
     <content type="html"><![CDATA[<p>163 源: <a href="http://mirrors.163.com/.help/centos.html" target="_blank" rel="external">http://mirrors.163.com/.help/centos.html</a></p>
 <p>阿里源: <a href="http://mirrors.aliyun.com/help/centos" target="_blank" rel="external">http://mirrors.aliyun.com/help/centos</a> – 可能要去掉 aliyuncs.com 的 url</p>
@@ -1352,7 +1352,7 @@
     <link href="http://blog.lyogvce.me/2016-10/Chinese-Linux-With-English-Directory.html"/>
     <id>http://blog.lyogvce.me/2016-10/Chinese-Linux-With-English-Directory.html</id>
     <published>2016-10-17T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:27.041Z</updated>
+    <updated>2017-07-21T07:53:15.560Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Step-1"><a href="#Step-1" class="headerlink" title="Step 1"></a>Step 1</h2><p>终端:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">export</span> LANG=en_US</div><div class="line">xdg-user-dirs-gtk-update</div></pre></td></tr></table></figure>
@@ -1385,7 +1385,7 @@
     <link href="http://blog.lyogvce.me/2016-05/Obtain-Root-Permission.html"/>
     <id>http://blog.lyogvce.me/2016-05/Obtain-Root-Permission.html</id>
     <published>2016-05-12T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.592Z</updated>
+    <updated>2017-07-21T07:53:15.172Z</updated>
     
     <content type="html"><![CDATA[<p>本文是用于找回虚拟机中的 Linux Root 密码。实体机应该也可以使用。:)</p>
 <a id="more"></a>
@@ -1437,7 +1437,7 @@
     <link href="http://blog.lyogvce.me/2016-05/Public-DNS.html"/>
     <id>http://blog.lyogvce.me/2016-05/Public-DNS.html</id>
     <published>2016-05-02T16:00:00.000Z</published>
-    <updated>2017-07-21T07:41:26.652Z</updated>
+    <updated>2017-07-21T07:53:15.235Z</updated>
     
     <content type="html"><![CDATA[<h2 id="国外-DNS-服务器地址"><a href="#国外-DNS-服务器地址" class="headerlink" title="国外 DNS 服务器地址"></a>国外 DNS 服务器地址</h2><ul>
 <li>Google DNS         (8.8.8.8, 8.8.4.4)</li>
